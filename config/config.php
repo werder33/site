@@ -13,3 +13,5 @@
 		exit("ошибка выбора базы данных fghf");
 	}
 	@mysql_query("SET NAMES 'utf8'");
+	//werder33 andreywow90@gmail.com
+			
