@@ -1,0 +1,61 @@
+body{
+	background:black;}
+.header{
+	height:100vh;}
+.logo{
+	width:800px;
+	height:100px;
+	
+	position:absolute;
+	top:50%;
+	left:30%;
+	font-size:100px;}
+h1{
+	font-size:70px;
+	color:#fff;}
+.content{
+	
+	background:#bb33ee;}
+.modal-body{
+	padding-top:200px;
+	padding-left:600px;
+	background:#;
+	height:400px;
+}
+
+.vhod{
+	width:200px;
+	height:70px;
+	font-size:35px;}
+.reg{
+	width:200px;
+	height:70px;
+	font-size:30px;
+	}
+.reg-form{
+	margin:auto;
+	padding:30px;
+	padding-top:60px;
+	background:#fff;
+	height:300px;
+	width:300px;}
+.main-content{
+	background:black;
+	position:;}
+.footer{
+	bottom:0;
+	height:30px;
+	width:100%;
+	background:#b3eff5;}
+.gallery img{
+	margin:5px;
+	border:3px solid #fff;
+	}
+a.photo:hover img{
+	border:3px solid #034f00;}
+.news{
+	background:#eee;
+	padding:30px;
+	margin:10px;}
+.foot{
+	background:#eee;}
